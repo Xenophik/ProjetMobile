@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/Client/Client/bin
+/Client/Client/obj
+/Client/Client.iOS/bin
+/Client/Client.iOS/obj
+/Client/Client.Android/bin
+/Client/Client.Android/obj
