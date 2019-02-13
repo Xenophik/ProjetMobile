@@ -5,3 +5,5 @@
 /.vs
 /Server/obj
 /Server/bin
+/Core/Core/obj
+/Core/Core/bin
