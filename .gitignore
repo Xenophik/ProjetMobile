@@ -9,8 +9,7 @@
 /Client/Client.iOS/obj
 /Client/Client.Android/bin
 /Client/Client.Android/obj
-/.vs
 /Server/obj
 /Server/bin
-/Core/Core/obj
-/Core/Core/bin
+/Core/obj
+/Core/bin
