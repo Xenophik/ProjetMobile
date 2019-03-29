@@ -1,0 +1,10 @@
+C:\Users\Xenophik\source\repos\ProjetMobile\PlacesSearchBar\bin\Debug\netstandard2.0\PlacesSearchBar.deps.json
+C:\Users\Xenophik\source\repos\ProjetMobile\PlacesSearchBar\bin\Debug\netstandard2.0\PlacesSearchBar.dll
+C:\Users\Xenophik\source\repos\ProjetMobile\PlacesSearchBar\bin\Debug\netstandard2.0\PlacesSearchBar.pdb
+C:\Users\Xenophik\source\repos\ProjetMobile\PlacesSearchBar\obj\Debug\netstandard2.0\PlacesSearchBar.csprojAssemblyReference.cache
+C:\Users\Xenophik\source\repos\ProjetMobile\PlacesSearchBar\obj\Debug\netstandard2.0\PlacesSearchBar.csproj.CoreCompileInputs.cache
+C:\Users\Xenophik\source\repos\ProjetMobile\PlacesSearchBar\obj\Debug\netstandard2.0\PlacesSearchBar.AssemblyInfoInputs.cache
+C:\Users\Xenophik\source\repos\ProjetMobile\PlacesSearchBar\obj\Debug\netstandard2.0\PlacesSearchBar.AssemblyInfo.cs
+C:\Users\Xenophik\source\repos\ProjetMobile\PlacesSearchBar\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Xenophik\source\repos\ProjetMobile\PlacesSearchBar\obj\Debug\netstandard2.0\PlacesSearchBar.dll
+C:\Users\Xenophik\source\repos\ProjetMobile\PlacesSearchBar\obj\Debug\netstandard2.0\PlacesSearchBar.pdb

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-using Foundation;
+﻿using Foundation;
 using UIKit;
 
 namespace Client.iOS
@@ -23,6 +19,8 @@ namespace Client.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+            Xamarin.FormsGoogleMaps.Init("AIzaSyCpc9Ru0GnnStCw1HvSXxyEQsfF__W9dsk");
+
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

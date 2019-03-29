@@ -14,7 +14,13 @@ namespace Server
     {
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
+            CreateWebHostBuilder(args)
+                .UseKestrel()
+                .UseContentRoot(Directory.GetCurrentDirectory())
+                .UseIISIntegration()
+                .UseStartup<Startup>()
+                .UseUrls(urls: new string[] { "http://127.0.0.1:5000", "http://locahost:5000", "http://192.168.0.10:5000", "https://127.0.0.1:5001", "https://locahost:5001", "https://192.168.0.10:5001" })
+                .Build().Run();
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>

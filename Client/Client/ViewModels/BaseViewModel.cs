@@ -5,8 +5,8 @@ using System.Runtime.CompilerServices;
 
 using Xamarin.Forms;
 
-using Client.Models;
 using Client.Services;
+using Core;
 
 namespace Client.ViewModels
 {
